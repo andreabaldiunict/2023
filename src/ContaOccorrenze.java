@@ -10,7 +10,6 @@ public class ContaOccorrenze {
         System.out.print("Enter string b:");
         String b =sc.nextLine();
         countOccurrences(a.charAt(0), b);
-        ciao
     }
 
     static void countOccurrences(char a, String b) {
